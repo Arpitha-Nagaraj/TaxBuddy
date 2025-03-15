@@ -20,11 +20,11 @@ Run the following commands in the terminal to verify that Node.js and npm are in
 node -v   # Verify Node.js version
 npm -v    # Verify npm version
 
-**#### **Step 3: Clone the Repository****
+#### **Step 3: Clone the Repository****
 git clone https://github.com/Arpitha-Nagaraj/TaxBuddy.git
 
 
-**#### **Step 4: Navigate to the Project Directory****
+#### **Step 4: Navigate to the Project Directory****
 cd TaxBuddy
 
 **#### **Step 5: Install Dependencies****
