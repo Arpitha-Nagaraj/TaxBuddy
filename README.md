@@ -16,7 +16,6 @@ Download and install **Node.js** from the [official website](https://nodejs.org/
 
 #### **Step 2: Verify Installation**
 Run the following commands in the terminal to verify that Node.js and npm are installed correctly:
-```sh
 node -v   # Verify Node.js version
 npm -v    # Verify npm version
 
