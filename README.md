@@ -26,19 +26,19 @@ npm -v    # Verify npm version
 git clone https://github.com/Arpitha-Nagaraj/TaxBuddy.git
 ```
 
-##### **Step 4: Navigate to the Project Directory****
+##### **Step 4: Navigate to the Project Directory**
 ```
 cd TaxBuddy
 ```
-#### **Step 5: Install Dependencies****
+#### **Step 5: Install Dependencies**
 ```
 npm install
 ```
-#### **Step 6: Start the Application****
+#### **Step 6: Start the Application**
 ```
 npm start
 ```
-#### **Step 7: Access the Application****
+#### **Step 7: Access the Application**
 ```
 http://localhost:3000
 ```
