@@ -1,5 +1,7 @@
 # TaxBuddy
 
+![Demo](taxBuddy.gif)
+
 ## 📌 Project Setup Instructions
 
 Follow the steps below to set up and run the TaxBuddy project on your local machine.
