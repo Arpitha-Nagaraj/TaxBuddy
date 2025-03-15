@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deloitte Auditor Chat UI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <h2>Deloitte Auditor Enterprise Chat UI</h2>
+        <label for="taxPrompt">Tax Prompt</label>
+        <textarea id="taxPrompt" placeholder="Enter your tax-related question here..."></textarea>
+        <div class="buttons">
+            <button onclick="sendQuestion()">Send</button>
+            <button onclick="clearPrompt()">Cancel</button>
+        </div>
+        <h3>Response</h3>
+        <div id="chatContainer" class="chat-box"></div>
+    </div>    
+
+    <script src="script.js"></script>
+</body>
+</html>
